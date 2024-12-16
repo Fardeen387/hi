@@ -1,2 +1,2 @@
 # hi
-Aythor - Fardeen khan
+Author - Fardeen khan
